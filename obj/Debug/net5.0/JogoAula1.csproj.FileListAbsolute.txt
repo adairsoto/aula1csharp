@@ -1,0 +1,16 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\bin\Debug\net5.0\JogoAula1.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\bin\Debug\net5.0\JogoAula1.deps.json
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\bin\Debug\net5.0\JogoAula1.runtimeconfig.json
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\bin\Debug\net5.0\JogoAula1.runtimeconfig.dev.json
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\bin\Debug\net5.0\JogoAula1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\bin\Debug\net5.0\JogoAula1.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.AssemblyInfoInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.AssemblyInfo.cs
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\refint\JogoAula1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\JogoAula1.genruntimeconfig.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\cSharpBasic\JogoAula1\obj\Debug\net5.0\ref\JogoAula1.dll
